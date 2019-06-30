@@ -56,8 +56,7 @@ Citizen.CreateThread(function()
 			color = 16335900,
 			fields = {},
 			footer = {
-				text = "Server Changelogs",
-				timestamp = os.date()
+				text = "Server Changelogs"
 			}
 		}
 	}
