@@ -1,0 +1,5 @@
+{
+  "Version":"1.0.0",
+  "Changes":["+ Added something cool","- Removed something not-so-cool","* Modified something to be cooler","Some misc change"],
+  "DO_NOT_CHANGE_VER":"1.0.0"
+}
